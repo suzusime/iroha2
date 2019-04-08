@@ -12,3 +12,6 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosugges
 # install fzf
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ~/.fzf/install --no-fish --no-bash --completion --key-bindings --no-update-rc
+
+# install spacemacs
+git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
