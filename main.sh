@@ -21,3 +21,7 @@ $XDG_CONFIG_HOME/fzf/install --xdg --no-fish --no-bash --completion --key-bindin
 
 # install spacemacs
 # git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+
+# install anyenv
+git clone https://github.com/anyenv/anyenv ~/.config/anyenv
+~/.config/anyenv/bin/anyenv init
